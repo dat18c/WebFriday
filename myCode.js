@@ -1,0 +1,3 @@
+function fredag(){
+    alert("Weekend!");
+}
